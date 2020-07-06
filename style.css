@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.4)), url(san-francisco.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+* {
+    color: #ffffff;
+
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 300;
+    padding: 30px 15px;
+}
